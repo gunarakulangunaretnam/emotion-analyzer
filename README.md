@@ -76,6 +76,7 @@ The Emotion Analyzer is a Python-based application designed to detect and analyz
 
 ### 5.1. Demo
 
+https://github.com/user-attachments/assets/63deeae1-e498-4ca8-870f-e46336d69d6f
 
 # Contact
 
